@@ -1,5 +1,3 @@
-##¡Claro! Aquí te dejo el código completo en Python que utiliza todas las clases y métodos para generar cadenas aleatorias a partir de una gramática y una semilla para el generador de números pseudoaleatorios:
-###```python
 import random
 
 class Aleatorio:
